@@ -1,0 +1,27 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "First project on this Mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesWhiteAtx/One.git"
+  },
+  "keywords": [
+    "mac",
+    "first",
+    "test"
+  ],
+  "author": "James White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesWhiteAtx/One/issues"
+  },
+  "homepage": "https://github.com/JamesWhiteAtx/One#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
